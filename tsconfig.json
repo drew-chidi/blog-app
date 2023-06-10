@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["node", "@types/react", "@types/react-dom"],
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
